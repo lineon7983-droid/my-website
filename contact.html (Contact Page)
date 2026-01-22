@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Us</title>
+  <style>
+    body {font-family: Arial; background-color: #f5f5f5; margin: 0; padding: 0;}
+    header {background-color: #4CAF50; color: white; text-align: center; padding: 20px;}
+    nav {background-color: #333; text-align: center; padding: 10px;}
+    nav a {color: white; margin: 0 15px; text-decoration: none; font-weight: bold;}
+    nav a:hover {color: #4CAF50;}
+    .container {padding: 20px; text-align: center;}
+    a.whatsapp-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      margin-top: 20px;
+      background-color: #25D366;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    a.whatsapp-btn:hover {
+      background-color: #1DA851;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>संपर्क करें</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a> |
+  <a href="about.html">About</a> |
+  <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+  <p><b>मोबाइल नंबर:</b> 7983850788</p>
+  <p><b>WhatsApp नंबर:</b> 7983850788</p>
+  <p><b>Address:</b> आपकी जगह का पूरा एड्रेस</p>
+  
+  <a class="whatsapp-btn" href="https://wa.me/917983850788" target="_blank">WhatsApp पर संपर्क करें</a>
+</div>
+
+</body>
+</html>
