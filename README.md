@@ -1,2 +1,2 @@
 Classic Uniform
-my-website
+Classic-Uniform
